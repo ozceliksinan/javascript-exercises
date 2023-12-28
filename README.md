@@ -5,7 +5,7 @@ Welcome to the Simple JavaScript Exercises project! This initiative is tailored 
 ## Project Objectives
 
 - Beginner-Friendly Exercises: These exercises are designed with beginners in mind, aiming to gently introduce you to the core concepts of JavaScript.
-- Focus on Fundamentals: Emphasis is placed on fundamental concepts such as variables, loops, conditionals, and functions—building blocks for any JavaScript developer.
+- Focus on Fundamentals: Emphasis is placed on fundamental concepts such as variables, loops, conditionals, and functions building blocks for any JavaScript developer.
 - Comprehensive Explanations: Each exercise is accompanied by clear explanations. These explanations are meant to guide you through the thought process and solution strategies, fostering a deep understanding of the concepts.
 - Progressive Difficulty: The exercises are organized in a way that allows you to progress gradually. Starting with simple tasks, you'll advance to more complex challenges, solidifying your JavaScript skills step by step.
 
